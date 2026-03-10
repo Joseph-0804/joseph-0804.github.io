@@ -48,3 +48,8 @@ text-decoration:none;
 a:hover{
 text-decoration:underline;
 }
+
+#about p{
+margin-top:15px;
+line-height:1.6;
+}
