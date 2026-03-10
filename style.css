@@ -18,6 +18,17 @@ max-width:900px;
 margin:auto;
 }
 
+h1::after{
+content:"_";
+animation:blink 1s infinite;
+}
+
+@keyframes blink{
+0%{opacity:1;}
+50%{opacity:0;}
+100%{opacity:1;}
+}
+
 h2{
 border-bottom:1px solid #00ff9c;
 padding-bottom:10px;
