@@ -40,6 +40,12 @@ padding:20px;
 margin-top:20px;
 }
 
+.project ul{
+margin-top:10px;
+padding-left:20px;
+line-height:1.6;
+}
+
 a{
 color:#00ff9c;
 text-decoration:none;
